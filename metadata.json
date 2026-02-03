@@ -1,0 +1,5 @@
+{
+  "name": "ProducTV - AI Ad Creator",
+  "description": "Create professional 8-second productivity app advertisements using Gemini Veo for video and Gemini TTS for voice-over.",
+  "requestFramePermissions": []
+}
